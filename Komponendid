@@ -1,0 +1,20 @@
+Makettplaat - plaat, millele saab ehitada
+Kondensaatorid - hoiavad ja annavad elektrienergiat vooluringis.
+Arduino Uno - nagu arvuti, millega ei saa suhelda.
+Aku snap - on vaja, et 9V aku toitejuhtmete külge ühendada.
+DC mootor - muuldab elektrienergia mehaaniliseks energiaks.
+Diood - tagab, et elektrivool liigub ainult ühes suunas.
+Hüppejuhe - ühendab komponente
+LED - diood, mis helendab, kui elekter läbi läheb.
+H-sild - muudab koormusele rakendatud pinge polaarsust
+Vedelkristallkuvar (LCD) - kasutab taustvalgust ja veekristalle, et kuvada pilti.
+Potentsiomeeter - 
+Piezo - tekitab hääli ja vibratsioone.
+nupp - katkestab voolu, kui peale vajutad.
+Fototakisti - muudab takistust sõltuvalt valgusek ogusest, mis ta saab.
+Takisti - tekitab kindla elektritakistuse vooluringis.
+Servomootor - juhtiav mootor.
+temperatuuriandur - möödab soojust ja sellest sõltuvalt väljundab pinge.
+USB juhe - ühendab arduino uno arvutiga, et programmerida.
+kaldeandur - näitab kas kaldenurk on okei.
+Transistor - kontrolllib suure pingega komponente.
