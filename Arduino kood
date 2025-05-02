@@ -38,3 +38,6 @@ void loop() {
 
   lastButtonState = buttonState;
 }
+
+
+// inspiratsiooni võtsin lingilt https://www.tinkercad.com/things/2cpvAyjmGBN/editel
