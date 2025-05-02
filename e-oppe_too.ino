@@ -1,3 +1,4 @@
+//iga nupuvajutusega süttib järgmine LED ja eelmine kustub. 
 const int buttonPin = 2;
 const int ledPins[] = {3, 4, 5, 6}; 
 const int numLeds = 4;
