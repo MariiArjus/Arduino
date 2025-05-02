@@ -40,3 +40,4 @@ void loop() {
   lastButtonState = buttonState;
 }
 // 
+https://www.tinkercad.com/things/2cpvAyjmGBN/editel ja https://roboticsbackend.com/arduino-push-button-multiple-leds/
