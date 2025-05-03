@@ -5,10 +5,10 @@ bool isRunning = true;
 bool lastButton = HIGH;
 unsigned long lastTime = 0;
 int currentLED = 0;
-int cycleCount = 0; // UUS: loendur tsüklite jaoks
+int cycleCount = 0; // loeb tsükkleid
 
 void setup() {
-  Serial.begin(9600); // UUS: alustame Serial Monitori
+  Serial.begin(9600); // alustab serial monitori
   for (int i = 0; i < 4; i++) pinMode(ledPins[i], OUTPUT);
   pinMode(buttonPin, INPUT_PULLUP);
 }
@@ -29,7 +29,7 @@ void loop() {
     digitalWrite(ledPins[currentLED], HIGH);
     currentLED = (currentLED + 1) % 4;
 
-    // Kui üks täistsükkel on tehtud (4 LEDi läbi), suurenda loendurit
+    // kui üks tsükkel on läbi, hakkab teist lugema
     if (currentLED == 0) {
       cycleCount++;
       Serial.print("Tsükkel: ");
