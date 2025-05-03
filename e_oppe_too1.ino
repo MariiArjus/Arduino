@@ -42,3 +42,4 @@ void loop() {
 void allOff() {
   for (int i = 0; i < 4; i++) digitalWrite(ledPins[i], LOW);
 }
+//töö asub siin: https://www.tinkercad.com/things/iK1Wd9Ycwww-e-oppe-too/editel
