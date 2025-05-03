@@ -43,3 +43,4 @@ void allOff() {
   for (int i = 0; i < 4; i++) digitalWrite(ledPins[i], LOW);
 }
 //töö asub siin: https://www.tinkercad.com/things/iK1Wd9Ycwww-e-oppe-too/editel
+// inspiratsiooni sain: https://www.tinkercad.com/things/2cpvAyjmGBN/editel ja isa aitas koodiga
