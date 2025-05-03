@@ -39,5 +39,5 @@ void loop() {
 
   lastButtonState = buttonState;
 }
-// Tinkercadi harjutus: https://www.tinkercad.com/things/aps06oAxm1V-e-oppe-too/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits
+// Tinkercadi harjutus: https://www.tinkercad.com/things/jdD3oubjNXt-e-oppe-too/editel
 // abi sain: https://www.tinkercad.com/things/2cpvAyjmGBN/editel ja https://roboticsbackend.com/arduino-push-button-multiple-leds/ (isa aitas ka natuke)
